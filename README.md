@@ -21,9 +21,9 @@ This plugin is used to display the custom slideshow section on frontend pages.
 * Gujarati language support.
 
 ## Libraries  ##
-* Used the third party libraries: slick js & jqueryui   
-https://kenwheeler.github.io/slick/    
-https://cdnjs.com/libraries/jqueryui   
+Used the third party libraries:      
+* Slick JS: https://kenwheeler.github.io/slick/     
+* jQuery-UI: https://cdnjs.com/libraries/jqueryui    
 
 ## Installation ##
 
