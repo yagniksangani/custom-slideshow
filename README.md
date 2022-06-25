@@ -1,7 +1,7 @@
 # Custom Slideshow #
-**Contributors:** yagniksangani 
-**Donate link:** https://github.com/yagniksangani/
-**Tags:** custom slider, slideshow, slider, carousel, slide 
+
+**Contributors:** yagniksangani    
+**Tags:** custom slider, slideshow, slider, carousel, slide  
 **Requires at least:** 4.4  
 **Tested up to:** 6.0  
 **Stable tag:** 1.0.0
