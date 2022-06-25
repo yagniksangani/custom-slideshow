@@ -8,7 +8,6 @@ jQuery(document).ready(function($) {
     $(".custom_slideshow_section").slick({
         infinite: true,
         dots: true,
-        centerMode: true,
         slidesToShow: 3,
         slidesToScroll: 1,
         arrows: true,
