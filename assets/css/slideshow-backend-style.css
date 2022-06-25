@@ -1,0 +1,43 @@
+/******************************************************************************************/
+
+
+/* Style backend screens 												                  */
+
+
+/******************************************************************************************/
+
+.field_left {
+    float: left;
+}
+
+.field_right {
+    float: left;
+    margin-left: 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+#dynamic_form {
+    width: 580px;
+}
+
+#dynamic_form input[type=text] {
+    width: 300px;
+}
+
+#dynamic_form .field_row {
+    border: 1px solid #999;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #e7e2e2;
+}
+
+#dynamic_form label {
+    padding: 0 6px;
+}
+
+.field_row {
+    cursor: move;
+}
