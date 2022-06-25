@@ -20,6 +20,11 @@ This plugin is used to display the custom slideshow section on frontend pages.
 * User can add the shortcode **[myslideshow]** to the page to display slideshow.
 * Gujarati language support.
 
+## Libraries  ##
+* Used the third party libraries: slick js & jqueryui   
+https://kenwheeler.github.io/slick/    
+https://cdnjs.com/libraries/jqueryui   
+
 ## Installation ##
 
 1. Upload plugin to the "/wp-content/plugins/" directory.
